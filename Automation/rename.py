@@ -2,7 +2,7 @@ import os
 
 os.chdir('/path/to/files/')
 
-# Am I in the correct directory?
+# AmI in the correct directory?
 # print(os.getcwd())
 
 # print(dir(os))
